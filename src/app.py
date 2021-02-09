@@ -57,7 +57,7 @@ dfg_visualization.view(gviz)
 
 
 ## bigger process model
-log_csv_big = pd.read_csv('./../ressource/process_copy.csv')
+log_csv_big = pd.read_csv('./../ressource/process.csv')
 # log_csv_process = dataframe_utils.convert_timestamp_columns_in_df(log_csv)
 print(log_csv_big.head())
 
