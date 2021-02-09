@@ -6,6 +6,7 @@ This repository contains a short demo which applies the Python process mining li
 
 ## Prerequisite
 - Python > 3.7
+- Pandas
 - PM4Py
 ```
 pip install -U pandas
